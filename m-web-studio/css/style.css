@@ -81,3 +81,7 @@ h1 {
 body {
     background: linear-gradient(to right, #eef2ff, #f8f9ff);
 }
+img {
+    border-radius: 12px;
+    margin-top: 20px;
+}
