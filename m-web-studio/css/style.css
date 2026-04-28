@@ -85,3 +85,6 @@ img {
     border-radius: 12px;
     margin-top: 20px;
 }
+.service-box:hover {
+    transform: translateY(-5px);
+}
