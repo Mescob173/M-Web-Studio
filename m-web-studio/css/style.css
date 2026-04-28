@@ -88,3 +88,6 @@ img {
 .service-box:hover {
     transform: translateY(-5px);
 }
+nav a:hover {
+    color: #b8c0ff;
+}
