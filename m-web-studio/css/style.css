@@ -91,3 +91,7 @@ img {
 nav a:hover {
     color: #b8c0ff;
 }
+h2 {
+    margin-top: 10px;
+    color: #333;
+}
