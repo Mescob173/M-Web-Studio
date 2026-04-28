@@ -95,3 +95,6 @@ h2 {
     margin-top: 10px;
     color: #333;
 }
+.service-box {
+    transition: 0.3s ease;
+}
