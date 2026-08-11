@@ -30,3 +30,14 @@ This is a freelance web design website for M Web Studio. It includes a homepage,
 - As a potential client, I want to view the homepage so I can understand what M Web Studio offers.
 - As a user, I want to see the services page so I can learn about the available web design services.
 - As a visitor, I want to use the contact form so I can reach out for a project.
+
+## Wireframes
+
+### Homepage
+![Homepage Wireframe](images/homepage.png)
+
+### Services Page
+![Services Wireframe](images/services.png)
+
+### Contact Page
+![Contact Wireframe](images/contact.png)
